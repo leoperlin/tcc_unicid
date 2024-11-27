@@ -38,7 +38,7 @@ Informações Técnicas
 
 ## Como Executar o Projeto Localmente:
 
-1. Clone o repositório: `git clone https://github.com/sanferreira/what-is-that.git`
+1. Clone o repositório: `git clone https://github.com/leoperlin/tcc_unicid.git`
 2. Abra `sobre.html` em seu navegador.
 
 ## Contribuições:
